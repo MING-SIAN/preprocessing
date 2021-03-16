@@ -1,6 +1,6 @@
 # preprocessing(預處理)
 
-## <font color=#0000FF>csv_classifier(分類資料夾)</font>
+## **csv_classifier(分類資料夾)**
 將csv裡的資料，依據label的種類，分成各個不同的資料夾
 
 ## data_augmentation(資料擴增)
